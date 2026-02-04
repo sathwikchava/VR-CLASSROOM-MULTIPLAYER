@@ -68,7 +68,7 @@ We developed a **3D multiplayer virtual classroom** using Unity that includes:
 
 ## 📸 Screenshots & Demo
  
-📁 **GitHub Repository:** [https://github.com/AnnavarapuGanesh/VR-CLASSROOM-MULTIPLAYER](https://github.com/sathwikchava/VR-CLASSROOM-MULTIPLAYER/edit/main/README.md)
+📁 **GitHub Repository:** [https://github.com/AnnavarapuGanesh/VR-CLASSROOM-MULTIPLAYER]()
 
 ---
 
@@ -86,16 +86,6 @@ This project is licensed under the **MIT License**.
 Feel free to fork, modify, and build upon it for learning or innovation.
 
 ---
-
-## 💬 Contact
-
-Want to collaborate or learn more?  
-📧 Email: sathwikchava2005@gmail.com  
-🔗 LinkedIn: [Sathwik Chava](https://www.linkedin.com/in/sathwik-chava-91096027b/)
-
----
-
-## 🔖 Hashtags for Promotion
 
 `#Unity3D` `#AI` `#VirtualClassroom` `#PhotonPun` `#GeminiAI` `#AzurePlayFab`  
 `#CSharp` `#Metaverse` `#HackathonProject` `#HackStreetBoys` `#DigitalEducation`
